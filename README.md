@@ -5,14 +5,14 @@
 
 # 📌 Description
 
-Problems solved by the team LGPD++ in the programming marathon of UFV (Federal University of Viçosa) computer week.
+Problems solved by the team [UFES] LGPD++ in the programming marathon of UFV (Federal University of Viçosa) computer week.
 
 ## :book: Used languages 
 [![Python](https://img.shields.io/static/v1?label=Python&message=3.8&colorA=purple&color=black&logo=Python&logoColor=white)](https://www.python.org/)
 <br>
 [![Cplusplus](https://img.shields.io/static/v1?label=C%2B%2B&message=17&colorA=purple&color=black&logo=C%2B%2B&logoColor=white)](https://www.cplusplus.com/)
 
-## :pencil2: Team LGPD++
+## :pencil2: Team [UFES] LGPD++
 
 <table>
   <tr>
