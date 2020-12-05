@@ -1,6 +1,6 @@
 <div style="display:flex; align-items:center">
-  <img src="./event_logo.png"/>
-  <img src="./ufv_logo.png"/>
+  <img src="./logo_event.png"/>
+  <img src="./logo_ufv.png"/>
 </div>
 
 # 📌 Description
